@@ -1,0 +1,22 @@
+{
+  "name": "monday-project",
+  "version": "1.0.0",
+  "description": "Prime function project",
+  "main": "src/main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "keywords": [
+    "TDD",
+    "Javascript"
+  ],
+  "author": "Sanni Lateef",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
